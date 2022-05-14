@@ -21,7 +21,7 @@ https://github.com/ros-simulation/gazebo_ros_demos
 
 
 
-*팁
+**************팁**************
 
 우분투창내리기
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
@@ -29,7 +29,7 @@ gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 
 
 
-*에러 해결법
+**************에러 해결법**************
 
 Gazebo [Err] [REST.cc:205] Error in REST request
 https://ropiens.tistory.com/30
@@ -49,3 +49,4 @@ killall gzclient
 
 Failed to load joint1_position_controller
 https://answers.ros.org/question/154166/ros-gazebo-failed-to-load-joint_state_controller/
+
