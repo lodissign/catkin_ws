@@ -15,7 +15,7 @@ https://classic.gazebosim.org/tutorials?tut=ros_control&cat=connect_ros
 코드
 https://github.com/ros-simulation/gazebo_ros_demos
 
-gazebo components
+- gazebo components
 https://classic.gazebosim.org/tutorials?tut=components&cat=get_started
 
 - gazebo model down for analysis in GAZEBO_MODEL_PATH
@@ -24,7 +24,7 @@ https://github.com/osrf/gazebo_models
 - (additional) Build world tutorials
 https://classic.gazebosim.org/tutorials?cat=build_world
 
-gazebo model editor
+- gazebo model editor
 https://classic.gazebosim.org/tutorials?tut=model_editor&cat=model_editor_top
 
 - gazebo api reference
@@ -43,35 +43,35 @@ src에는 .cpp 파일 넣음.
 
 **************팁**************
 
-우분투창내리기
+- 우분투창내리기
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 
-VS Code에서 git clone
+- VS Code에서 git clone
 https://doing7.tistory.com/5
 
-VS Code에서 git commit & push
+- VS Code에서 git commit & push
 https://doing7.tistory.com/6
 
-ctrl + shift + t : 터미널 창 여러개 생김.
+- ctrl + shift + t : 터미널 창 여러개 생김.
 
-그래프 시각화 (그래프비즈)
+- 그래프 시각화 (그래프비즈)
 https://gitlab.com/graphviz/graphviz/
 http://www.webgraphviz.com/
 	웹버전
   
-Ubuntu에서 imwheel로 마우스 휠 스크롤 속도 변경
+- Ubuntu에서 imwheel로 마우스 휠 스크롤 속도 변경
 https://codechacha.com/ko/linux-imwheel/
 
-find 커맨드로 파일 검색하기
+- find 커맨드로 파일 검색하기
 https://macinjune.com/all-posts/mac/terminal/%EB%A7%A5-%ED%84%B0%EB%AF%B8%EB%84%90-unix-find-command%EB%A1%9C-%ED%8C%8C%EC%9D%BC-%EA%B2%80%EC%83%89%ED%95%98%EA%B8%B0/
 
-Ubuntu Linux 속도를 높이는 방법
+- Ubuntu Linux 속도를 높이는 방법
 https://ciksiti.com/ko/chapters/6284-how-to-speed-up-ubuntu-linux-12-must-follow-tips
-*소프트웨어 & 업데이트-> 추가 드라이버-> 사용 NVIDIA driver metapackage 출처 nvidia-driver-390(독점)
+	소프트웨어 & 업데이트-> 추가 드라이버-> 사용 NVIDIA driver metapackage 출처 nvidia-driver-390(독점)
 
-vscode 파일 찾기: ctrl + p
+- vscode 파일 찾기: ctrl + p
 
-isual Studio Code / 자동 줄바꿈 설정하는 방법
+- visual Studio Code / 자동 줄바꿈 설정하는 방법
 https://www.codingfactory.net/12959
 
 
