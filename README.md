@@ -36,7 +36,7 @@ $ sudo apt-get install python3-pip python3-yaml
 $ sudo pip3 install rospkg catkin_pkg
 https://bigdata-analyst.tistory.com/232
 
-/home/lodissign/catkin_ws/src/ch8/scripts/key_publisher.py
+- /home/lodissign/catkin_ws/src/ch8/scripts/key_publisher.py
 scripts에는 .py
 src에는 .cpp 파일 넣음.
 
@@ -54,7 +54,7 @@ https://blog.naver.com/differenttime/222741855349
 https://blog.naver.com/differenttime/222741862922
 
 06_Navigation_2_튜닝
-
+https://lodissign.tistory.com/2
 
 
 
