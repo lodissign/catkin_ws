@@ -1,6 +1,7 @@
 
 #ROS
 #gazebo 
+
 - Testing Gazebo with ROS Integration
 https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros
 
@@ -39,6 +40,22 @@ https://bigdata-analyst.tistory.com/232
 scripts에는 .py
 src에는 .cpp 파일 넣음.
 
+- 책 p119. key_publisher.py 실행하는 법
+https://blog.naver.com/differenttime/222741841107
+
+- SLAM 실습
+https://blog.naver.com/differenttime/222741848110
+
+- mapping(SLAM SW/HW tuning)
+https://blog.naver.com/differenttime/222741855349
+
+- [자율주행] 
+05_Navigation_1_실습
+https://blog.naver.com/differenttime/222741862922
+
+06_Navigation_2_튜닝
+
+
 
 
 **************팁**************
@@ -74,6 +91,17 @@ https://ciksiti.com/ko/chapters/6284-how-to-speed-up-ubuntu-linux-12-must-follow
 - visual Studio Code / 자동 줄바꿈 설정하는 방법
 https://www.codingfactory.net/12959
 
+- building editor 
+https://classic.gazebosim.org/tutorials?cat=build_world&tut=building_editor
+	평면도(이미지 파일) 본뜨기 가능.
+
+- 우분투 멈출 때
+https://realrain.net/post/2018-05-21-ubuntu-18-04-on-dell-xps/
+
+- 우분투 그림판(.pgm 편집 가능)
+sudo apt-get install kolourpaint4
+
+
 
 
 **************에러 해결법**************
@@ -104,3 +132,5 @@ source /home/somin/catkin_ws/devel/setup.bash
 
 SyntaxError: Non-ASCII character '\xec' in file /home/somin/catkin_ws/src/ch8/scripts/key_publisher.py on line 8, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 
+[ERROR] [1652851329.405651679]: Map_server could not open /home/somin/map.yaml.
+home에 map.pgm, map.yaml 파일 있어야 됨.
